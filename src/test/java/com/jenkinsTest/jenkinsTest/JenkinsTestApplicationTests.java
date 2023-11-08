@@ -12,7 +12,7 @@ class JenkinsTestApplicationTests {
 
 	public static Logger log= Logger.getLogger(JenkinsTestApplicationTests.class.getName());
 	@Test
-	void contextLoads() {
+	public contextLoads() {
 		log.info("Text case execution.....");
 		log.info("Text case execution second log statement.....");
 		assertEquals(true,true);
