@@ -12,6 +12,7 @@ class JenkinsTestApplicationTests {
 	@Test
 	public void contextLoads() {
 		log.info("Text case execution.....");
+		log.info("Text case execution 2.....");
 
 
 	}
